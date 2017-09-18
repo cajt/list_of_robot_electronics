@@ -16,7 +16,7 @@
 ### FPGA based
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
 - [Snickerdoodle](http://krtkl.com/) - Snickerdoodle is a Zynq based System-on-Module
-- [Logi-Bone](http://valentfx.com/logi-bone/) - FPGA & Beglebone, also [https://github.com/fpga-logi/logi-hard](some VHDL modules) relevant to robitcs available
+- [Logi-Bone](http://valentfx.com/logi-bone/) - FPGA & Beaglebone, also [https://github.com/fpga-logi/logi-hard](some VHDL modules) relevant to robitcs available
 
 ### Bus Systems
 - [UAVCAN](http://uavcan.org/) - Protocol ontop of CAN Bus, suited for robotics and aerospace control applications
@@ -26,7 +26,7 @@
 ### Open Source Project
 - [Evezor](https://hackaday.io/project/20416-evezor-robotic-arm) - Evezor is an open source SCARA class robotic manufacturing platform
 - [Octanis Rover](https://github.com/Octanis1/Octanis1-Electronics) - Octanis Rover Projects Electronics
-- [OAP](http://oap.sourceforge.net/) - Open Automaton Project (Source Repo anactive seince 2008)
+- [OAP](http://oap.sourceforge.net/) - Open Automaton Project (Source Repo inactive seince 2008)
 
 ### Robot Competitions 
 - [CVRA](https://github.com/cvra) - CVRA's Github repositories (Eurobot Team)
@@ -34,7 +34,7 @@
 
 ### University Projects, Thesis work, etc.
 - [Litter Bot](https://github.com/Nurgak/Litter-collecting-robot) - Autonomous litter collecting robot (using OpenCV, Rpi and AVR)
-
+- [Zynq + OV7670](https://github.com/laurivosandi/hdl) - Student project using Zynq and image sensor (OV7670)
 
 
 
