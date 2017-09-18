@@ -7,6 +7,7 @@
 - [VESC](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller
 - [OpenBLDC](https://open-bldc.org/wiki/Open-BLDC) - Open-BLDC stands for Open Source Brush Less DC Motor Controller.
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo 
+- [motor-control-board](https://github.com/cvra/motor-control-board) - CVRA DC-Motor Driver, using STM32F3, supports CAN Bus and was designed using KiCAD
 
 ### Computer Vision
 - [OpenMV](https://github.com/openmv/openmv) - OpenMV, an embedded CV Module (CMOS Sensor with STM32)
@@ -14,6 +15,8 @@
 
 ### FPGA based
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
+- [Snickerdoodle](http://krtkl.com/) - Snickerdoodle is a Zynq based System-on-Module
+- [Logi-Bone](http://valentfx.com/logi-bone/) - FPGA & Beglebone, also [https://github.com/fpga-logi/logi-hard](some VHDL modules) relevant to robitcs available
 
 ### Bus Systems
 - [UAVCAN](http://uavcan.org/) - Protocol ontop of CAN Bus, suited for robotics and aerospace control applications
