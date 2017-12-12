@@ -16,6 +16,11 @@
 - [OpenMV](https://github.com/openmv/openmv) - OpenMV, an embedded CV Module (CMOS Sensor with STM32)
 - [PX4Flow](https://github.com/PX4/Hardware/tree/master/FLOWv1) - PX4Flow, Optical Flow Sensor
 
+### Battery Management ###
+- [DieBieMS](https://github.com/DieBieEngineering/DieBieMS) - DieBieMS (3-12S LiIon-based, 100A)
+- [LibreSolar Project](https://github.com/LibreSolar) - with different sized BMS [BMS Li-Ion 5S](https://github.com/LibreSolar/BMS-5s), [BMS Li-Ion 48V](https://github.com/LibreSolar/BMS48V)
+- [Ceech's BMS](https://github.com/ceech/BQ76920-BMS) - Arduino-based 5S BMS 
+
 ### FPGA based
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
 - [Snickerdoodle](http://krtkl.com/) - Snickerdoodle is a Zynq based System-on-Module
