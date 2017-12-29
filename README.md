@@ -24,7 +24,7 @@
 ### FPGA based
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
 - [Snickerdoodle](http://krtkl.com/) - Snickerdoodle is a Zynq based System-on-Module
-- [Logi-Bone](http://valentfx.com/logi-bone/) - FPGA & Beaglebone, also [https://github.com/fpga-logi/logi-hard](some VHDL modules) relevant to robitcs available
+- [Logi-Bone](http://valentfx.com/logi-bone/) - FPGA & Beaglebone, also [some VHDL modules](https://github.com/fpga-logi/logi-hard) relevant to robitcs available
 
 ### Bus Systems
 - [UAVCAN](http://uavcan.org/) - Protocol ontop of CAN Bus, suited for robotics and aerospace control applications
