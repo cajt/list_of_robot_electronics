@@ -35,7 +35,7 @@
 - [MORPH](https://hackaday.io/project/25730-morph-modular-open-robotics-platform-for-hackers) [on GitHub](https://github.com/roaldlemmens/morph) - Modular platform for open robotics development. Supports ROS and uses VESC.
 - [Evezor](https://hackaday.io/project/20416-evezor-robotic-arm) - Evezor is an open source SCARA class robotic manufacturing platform
 - [Octanis Rover](https://github.com/Octanis1/Octanis1-Electronics) - Octanis Rover Projects Electronics
-- [OAP](http://oap.sourceforge.net/) - Open Automaton Project (Source Repo inactive seince 2008)
+- [OAP](http://oap.sourceforge.net/) - Open Automaton Project (Source Repo inactive since 2008)
 - [Linorobot](https://linorobot.org/) - A suite of Open Source ROS compatible robots [GIT](https://github.com/linorobot/linorobot)
 
 ### Robot Competitions 
