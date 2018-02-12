@@ -9,6 +9,8 @@
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
 - [motor-control-board](https://github.com/cvra/motor-control-board) - CVRA DC-Motor Driver, using STM32F3, supports CAN Bus and was designed using KiCAD
 - [MotCtrl](https://github.com/osannolik/MotCtrl) - A BLDC motor controller
+- [OtterControl](https://github.com/NiklasFauth/ottercontrol) - OtterControl BLDC motor controller
+- [stmbl](https://github.com/rene-dev/stmbl) - High-Voltage AC Servo Driver 
 
 ### RC-Servo
 - [16 Channel Servo Controler](https://www.tindie.com/products/deshipu/16-channel-servo-shield-for-d1-mini-version-10/) - I²C RC-servo controller with 16 channels
