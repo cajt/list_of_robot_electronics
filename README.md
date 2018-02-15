@@ -3,10 +3,10 @@
 ## Open Source Modules & Subsystem
 
 ### Motor drivers
-- [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control 
+- [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control
 - [VESC](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller
 - [OpenBLDC](https://open-bldc.org/wiki/Open-BLDC) - Open-BLDC stands for Open Source Brush Less DC Motor Controller.
-- [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo 
+- [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
 - [motor-control-board](https://github.com/cvra/motor-control-board) - CVRA DC-Motor Driver, using STM32F3, supports CAN Bus and was designed using KiCAD
 
 ### RC-Servo
@@ -19,7 +19,7 @@
 ### Battery Management ###
 - [DieBieMS](https://github.com/DieBieEngineering/DieBieMS) - DieBieMS (3-12S LiIon-based, 100A)
 - [LibreSolar Project](https://github.com/LibreSolar) - with different sized BMS [BMS Li-Ion 5S](https://github.com/LibreSolar/BMS-5s), [BMS Li-Ion 48V](https://github.com/LibreSolar/BMS48V)
-- [Ceech's BMS](https://github.com/ceech/BQ76920-BMS) - Arduino-based 5S BMS 
+- [Ceech's BMS](https://github.com/ceech/BQ76920-BMS) - Arduino-based 5S BMS
 
 ### FPGA based
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
@@ -28,6 +28,10 @@
 
 ### Bus Systems
 - [UAVCAN](http://uavcan.org/) - Protocol ontop of CAN Bus, suited for robotics and aerospace control applications
+
+### Sensors
+- [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
+- [OSLRF-01](http://www.lightware.co.za/shop2017/download/Documents/OSLRF-01%20-%20Laser%20Rangefinder%20Manual%20-%20Rev%200.pdf) - An open source laser range sensor using time-of-flight
 
 ## Projects with open and reuseable designs
 
@@ -38,13 +42,10 @@
 - [OAP](http://oap.sourceforge.net/) - Open Automaton Project (Source Repo inactive since 2008)
 - [Linorobot](https://linorobot.org/) - A suite of Open Source ROS compatible robots [GIT](https://github.com/linorobot/linorobot)
 
-### Robot Competitions 
+### Robot Competitions
 - [CVRA](https://github.com/cvra) - CVRA's Github repositories (Eurobot Team)
 - [RCA](https://github.com/roboterclubaachen) - RCA Github repositories (Eurobot Team)
 
 ### University Projects, Thesis work, etc.
 - [Litter Bot](https://github.com/Nurgak/Litter-collecting-robot) - Autonomous litter collecting robot (using OpenCV, Rpi and AVR)
 - [Zynq + OV7670](https://github.com/laurivosandi/hdl) - Student project using Zynq and image sensor (OV7670)
-
-
-
