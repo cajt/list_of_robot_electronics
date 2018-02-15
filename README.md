@@ -10,7 +10,7 @@
 - [motor-control-board](https://github.com/cvra/motor-control-board) - CVRA DC-Motor Driver, using STM32F3, supports CAN Bus and was designed using KiCAD
 - [MotCtrl](https://github.com/osannolik/MotCtrl) - A BLDC motor controller
 - [OtterControl](https://github.com/NiklasFauth/ottercontrol) - OtterControl BLDC motor controller
-- [stmbl](https://github.com/rene-dev/stmbl) - High-Voltage AC Servo Driver 
+- [stmbl](https://github.com/rene-dev/stmbl) - High-Voltage AC Servo Driver
 
 ### RC-Servo
 - [16 Channel Servo Controler](https://www.tindie.com/products/deshipu/16-channel-servo-shield-for-d1-mini-version-10/) - I²C RC-servo controller with 16 channels
@@ -31,6 +31,10 @@
 
 ### Bus Systems
 - [UAVCAN](http://uavcan.org/) - Protocol ontop of CAN Bus, suited for robotics and aerospace control applications
+
+### Sensors
+- [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
+- [OSLRF-01](http://www.lightware.co.za/shop2017/download/Documents/OSLRF-01%20-%20Laser%20Rangefinder%20Manual%20-%20Rev%200.pdf) - An open source laser range sensor using time-of-flight
 
 ## Projects with open and reuseable designs
 
