@@ -48,6 +48,7 @@
 ### Robot Competitions
 - [CVRA](https://github.com/cvra) - CVRA's Github repositories (Eurobot Team)
 - [RCA](https://github.com/roboterclubaachen) - RCA Github repositories (Eurobot Team)
+- [APBTeam](http://apbteam.org/) - A Eurobot Team with opensource robot design
 
 ### University Projects, Thesis work, etc.
 - [Litter Bot](https://github.com/Nurgak/Litter-collecting-robot) - Autonomous litter collecting robot (using OpenCV, Rpi and AVR)
