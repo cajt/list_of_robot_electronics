@@ -12,6 +12,7 @@
 - [OtterControl](https://github.com/NiklasFauth/ottercontrol) - OtterControl BLDC motor controller
 - [stmbl](https://github.com/rene-dev/stmbl) - High-Voltage AC Servo Driver
 - [RCA's µMotor](https://github.com/roboterclubaachen/micro-motor) - control any BLDC and DC motor up to 250W
+- [Brushless DC motor controller board](https://danstrother.com/2011/01/12/brushless-dc-motor-controller-board/) - Dan Strother's STM32f103 based BLDC controller Board
 
 ### RC-Servo
 - [16 Channel Servo Controler](https://www.tindie.com/products/deshipu/16-channel-servo-shield-for-d1-mini-version-10/) - I²C RC-servo controller with 16 channels
