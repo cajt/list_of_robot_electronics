@@ -33,6 +33,7 @@
 
 ### Bus Systems
 - [UAVCAN](http://uavcan.org/) - Protocol ontop of CAN Bus, suited for robotics and aerospace control applications
+- [SAB](https://xpcc.io/api/group__sab.html) - Sensor Actuator Bus (SAB), also in [modm.io](https://modm.io/reference/module/modm-communication-sab/)
 
 ### Sensors
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
