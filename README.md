@@ -13,6 +13,8 @@
 - [stmbl](https://github.com/rene-dev/stmbl) - High-Voltage AC Servo Driver
 - [RCA's µMotor](https://github.com/roboterclubaachen/micro-motor) - control any BLDC and DC motor up to 250W
 - [Brushless DC motor controller board](https://danstrother.com/2011/01/12/brushless-dc-motor-controller-board/) - Dan Strother's STM32f103 based BLDC controller Board
+- [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
+- [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
 
 ### RC-Servo
 - [16 Channel Servo Controler](https://www.tindie.com/products/deshipu/16-channel-servo-shield-for-d1-mini-version-10/) - I²C RC-servo controller with 16 channels
