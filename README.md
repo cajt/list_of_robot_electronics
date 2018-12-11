@@ -16,7 +16,7 @@
 - [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
 - [DirectServo](https://github.com/DizzyRobot/DirectServo) - Robotic joint controller with BLDC driver and magnetic encoder.
-
+- [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
 
 ### RC-Servo
 - [16 Channel Servo Controler](https://www.tindie.com/products/deshipu/16-channel-servo-shield-for-d1-mini-version-10/) - I²C RC-servo controller with 16 channels
