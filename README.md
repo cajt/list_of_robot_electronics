@@ -8,6 +8,7 @@ If you have additions, please open an issue or pull-request.
 - [VESC](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller
 - [OpenBLDC](https://open-bldc.org/wiki/Open-BLDC) - Open-BLDC stands for Open Source Brush Less DC Motor Controller.
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
+- [HighPower-Mechaduino](https://github.com/pointhi/HighPower-Mechaduino) - Closed Loop Stepper Servo (50V@10A)
 - [motor-control-board](https://github.com/cvra/motor-control-board) - CVRA DC-Motor Driver, using STM32F3, supports CAN Bus and was designed using KiCAD
 - [MotCtrl](https://github.com/osannolik/MotCtrl) - A BLDC motor controller
 - [OtterControl](https://github.com/NiklasFauth/ottercontrol) - OtterControl BLDC motor controller
