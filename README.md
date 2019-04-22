@@ -7,7 +7,6 @@ If you have additions, please open an issue or pull-request.
 - [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control
 - [VESC](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller
 - [OpenBLDC](https://open-bldc.org/wiki/Open-BLDC) - Open-BLDC stands for Open Source Brush Less DC Motor Controller.
-- [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
 - [HighPower-Mechaduino](https://github.com/pointhi/HighPower-Mechaduino) - Closed Loop Stepper Servo (50V@10A)
 - [motor-control-board](https://github.com/cvra/motor-control-board) - CVRA DC-Motor Driver, using STM32F3, supports CAN Bus and was designed using KiCAD
 - [MotCtrl](https://github.com/osannolik/MotCtrl) - A BLDC motor controller
@@ -17,8 +16,13 @@ If you have additions, please open an issue or pull-request.
 - [Brushless DC motor controller board](https://danstrother.com/2011/01/12/brushless-dc-motor-controller-board/) - Dan Strother's STM32f103 based BLDC controller Board
 - [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
-- [DirectServo](https://github.com/DizzyRobot/DirectServo) - Robotic joint controller with BLDC driver and magnetic encoder.
 - [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
+
+### Actuators
+- [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
+- [OpenTorque Actuator](https://github.com/G-Levine/OpenTorque-Actuator) - Joint for legged robots
+- [3D Printed Robot Actuator](https://hackaday.io/project/157812-3d-printed-robot-actuator) - Motorcontroller + BLDC + cycloidal gearbox and position feedback
+- [DirectServo](https://github.com/DizzyRobot/DirectServo) - Robotic joint controller with BLDC driver and magnetic encoder.
 
 ### RC-Servo
 - [16 Channel Servo Controler](https://www.tindie.com/products/deshipu/16-channel-servo-shield-for-d1-mini-version-10/) - I²C RC-servo controller with 16 channels
@@ -53,6 +57,7 @@ If you have additions, please open an issue or pull-request.
 - [Octanis Rover](https://github.com/Octanis1/Octanis1-Electronics) - Octanis Rover Projects Electronics
 - [OAP](http://oap.sourceforge.net/) - Open Automaton Project (Source Repo inactive since 2008)
 - [Linorobot](https://linorobot.org/) - A suite of Open Source ROS compatible robots [GIT](https://github.com/linorobot/linorobot)
+- [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot) - Demo robot for real-time control using Rpi, RT Linux, and ROS.
 
 ### Robot Competitions
 - [CVRA](https://github.com/cvra) - CVRA's Github repositories (Eurobot Team)
