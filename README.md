@@ -1,4 +1,4 @@
-# A list of resources, projects and products usefull in electronics for robots
+# A list of resources, projects and products usefull for robot electronics
 If you have additions, please open an issue or pull-request.
 
 ## Open Source Modules & Subsystem
