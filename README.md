@@ -34,7 +34,8 @@ If you have additions, please open an issue or pull-request.
 ### Battery Management ###
 - [DieBieMS](https://github.com/DieBieEngineering/DieBieMS) - DieBieMS (3-12S LiIon-based, 100A)
 - [LibreSolar Project](https://github.com/LibreSolar) - with different sized BMS [BMS Li-Ion 5S](https://github.com/LibreSolar/BMS-5s), [BMS Li-Ion 48V](https://github.com/LibreSolar/BMS48V)
-- [Ceech's BMS](https://github.com/ceech/BQ76920-BMS) - Arduino-based 5S BMS
+- [Ceech's BMS](https://github.com/ceech/BQ76920-BMS) - Arduino-based 5S BMS (BQ76920)
+- [Battman BMS](https://github.com/raphaelchang/battman-hardware) - Li-Ion BMS (LTC6803)
 
 ### FPGA based
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
