@@ -23,6 +23,7 @@ If you have additions, please open an issue or pull-request.
 - [OpenTorque Actuator](https://github.com/G-Levine/OpenTorque-Actuator) - Joint for legged robots
 - [3D Printed Robot Actuator](https://hackaday.io/project/157812-3d-printed-robot-actuator) - Motorcontroller + BLDC + cycloidal gearbox and position feedback
 - [DirectServo](https://github.com/DizzyRobot/DirectServo) - Robotic joint controller with BLDC driver and magnetic encoder.
+- [Moteus](https://github.com/mjbots/moteus) - Joint Controller and quadruped robot design
 
 ### RC-Servo
 - [16 Channel Servo Controler](https://www.tindie.com/products/deshipu/16-channel-servo-shield-for-d1-mini-version-10/) - I²C RC-servo controller with 16 channels
