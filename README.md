@@ -42,6 +42,7 @@ If you have additions, please open an issue or pull-request.
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
 - [Snickerdoodle](http://krtkl.com/) - Snickerdoodle is a Zynq based System-on-Module
 - [Logi-Bone](http://valentfx.com/logi-bone/) - FPGA & Beaglebone, also [some VHDL modules](https://github.com/fpga-logi/logi-hard) relevant to robotics available
+- [flink](https://github.com/flink-project) - Universal interface to FPGA's. Includes some IP-Cores for robotics.
 
 ### Bus Systems
 - [UAVCAN](http://uavcan.org/) - Protocol on top of CAN Bus, suited for robotics and aerospace control applications
