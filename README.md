@@ -4,7 +4,7 @@ If you have additions, please open an issue or pull-request.
 ## Open Source Modules & Subsystem
 
 ### Motor drivers
-- [Near Zero] (http://skysedge.us/robotics/nearzero/) Hard and Software open
+- [Near Zero](http://skysedge.us/robotics/nearzero/) Hard and Software open
 - [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control
 - [VESC](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller
 - [OpenBLDC](https://open-bldc.org/wiki/Open-BLDC) - Open-BLDC stands for Open Source Brush Less DC Motor Controller.
