@@ -16,6 +16,7 @@ If you have additions, please open an issue or pull-request.
 - [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
 - [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
+- [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open WH)
 
 ### Actuators
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
@@ -36,6 +37,8 @@ If you have additions, please open an issue or pull-request.
 - [LibreSolar Project](https://github.com/LibreSolar) - with different sized BMS [BMS Li-Ion 5S](https://github.com/LibreSolar/BMS-5s), [BMS Li-Ion 48V](https://github.com/LibreSolar/BMS48V)
 - [Ceech's BMS](https://github.com/ceech/BQ76920-BMS) - Arduino-based 5S BMS (BQ76920)
 - [Battman BMS](https://github.com/raphaelchang/battman-hardware) - Li-Ion BMS (LTC6803)
+- [ENNOID - BMS](https://github.com/EnnoidMe/ENNOID-BMS) [FW](https://github.com/EnnoidMe/ENNOID-BMS-Firmware) [GUI](https://github.com/EnnoidMe/ENNOID-BMS-Tool) - Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack
+- [foxBMS (Github)](https://github.com/foxBMS/foxbms) - Modular BMS (many chemistries, many cells)  [foxbms.org](https://foxbms.org/)
 
 ### FPGA based
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
