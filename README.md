@@ -4,7 +4,7 @@ If you have additions, please open an issue or pull-request.
 ## Open Source Modules & Subsystem
 
 ### Motor drivers
-- [Near Zero](http://skysedge.us/robotics/nearzero/) Hard and Software open
+- [Near Zero](https://skysedge.com/robotics/nearzero/) Hard and Software open
 - [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control
 - [VESC](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller
 - [OpenBLDC](https://open-bldc.org/wiki/Open-BLDC) - Open-BLDC stands for Open Source Brush Less DC Motor Controller.
@@ -18,6 +18,7 @@ If you have additions, please open an issue or pull-request.
 - [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
 - [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
+- [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open WH)
 
 ### Actuators
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
@@ -38,6 +39,8 @@ If you have additions, please open an issue or pull-request.
 - [LibreSolar Project](https://github.com/LibreSolar) - with different sized BMS [BMS Li-Ion 5S](https://github.com/LibreSolar/BMS-5s), [BMS Li-Ion 48V](https://github.com/LibreSolar/BMS48V)
 - [Ceech's BMS](https://github.com/ceech/BQ76920-BMS) - Arduino-based 5S BMS (BQ76920)
 - [Battman BMS](https://github.com/raphaelchang/battman-hardware) - Li-Ion BMS (LTC6803)
+- [ENNOID - BMS](https://github.com/EnnoidMe/ENNOID-BMS) [FW](https://github.com/EnnoidMe/ENNOID-BMS-Firmware) [GUI](https://github.com/EnnoidMe/ENNOID-BMS-Tool) - Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack
+- [foxBMS (Github)](https://github.com/foxBMS/foxbms) - Modular BMS (many chemistries, many cells)  [foxbms.org](https://foxbms.org/)
 
 ### FPGA based
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
@@ -49,10 +52,11 @@ If you have additions, please open an issue or pull-request.
 - [UAVCAN](http://uavcan.org/) - Protocol on top of CAN Bus, suited for robotics and aerospace control applications
 - [UC4H: UAVCAN for Hobbyists](http://www.olliw.eu/2017/uavcan-for-hobbyists/)  [(on GitHub)](https://github.com/olliw42/uavcan4hobbyists) - UAVCAN applied to a multirotor plattform.
 - [SAB](https://xpcc.io/api/group__sab.html) - Sensor Actuator Bus (SAB), also in [modm.io](https://modm.io/reference/module/modm-communication-sab/)
+- [Simple Robot](http://www.simplerobot.net/) - RPI4 & EtherCAT
 
 ### Sensors
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
-- [OSLRF-01](http://www.lightware.co.za/shop2017/download/Documents/OSLRF-01%20-%20Laser%20Rangefinder%20Manual%20-%20Rev%200.pdf) - An open source laser range sensor using time-of-flight
+- [OSLRF-01](https://www.documents.lightware.co.za/OSLRF-01%20-%20Laser%20Rangefinder%20Manual%20-%20Rev%200.pdf) - An open source laser range sensor using time-of-flight
 
 ## Projects with open and reuseable designs
 
