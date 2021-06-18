@@ -70,7 +70,7 @@ If you have additions, please open an issue or pull-request.
 - [Pulurobots](https://www.pulurobotics.fi/page/github) - Open Source mobile service robot
 - [Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative) - 8/12-Dof Walker, fast multi-axis force control, bldc-drivers
 - [SCUTTLE](https://mxet.github.io/SCUTTLE/) - Mobile robot platform, uses RPI, OpenCV and lidar. 
-- [Hoverboard + ROS]{https://github.com/alex-makarov/hoverboard-driver} - Provides ROS support for modified hoverboard, to provide a differential drive plattform. Uses this (modified firmware){https://github.com/bipropellant/bipropellant-hoverboard-firmware}.
+- [Hoverboard + ROS](https://github.com/alex-makarov/hoverboard-driver) - Provides ROS support for modified hoverboard, to provide a differential drive plattform. Uses this (modified firmware)(https://github.com/bipropellant/bipropellant-hoverboard-firmware).
 
 ### Robot Competitions
 - [CVRA](https://github.com/cvra) - CVRA's Github repositories (Eurobot Team)
