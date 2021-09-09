@@ -1,5 +1,5 @@
-# A list of resources, projects and products usefull for robot electronics
-If you have additions, please open an issue or pull-request.
+# A list of resources, projects and products useful for robot electronics
+If you have additions, please open an issue or pull request.
 
 ## Open Source Modules & Subsystem
 
@@ -17,8 +17,8 @@ If you have additions, please open an issue or pull-request.
 - [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
 - [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
-- [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open WH)
-- [Near Zero](https://skysedge.com/robotics/nearzero/) Hard and Software open
+- [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open HW)
+- [Near Zero](https://skysedge.com/robotics/nearzero/) Open Hardware and Software
 
 ### Actuators
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
