@@ -5,6 +5,7 @@ If you have additions, please open an issue or pull-request.
 
 ### Motor drivers
 - [VESC](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller
+- [Cheap FOCer 2](https://github.com/shamansystems/Cheap-FOCer-2) - Low-cost VESC 6-based Brushless DC Motor Controller
 - [OpenBLDC](https://open-bldc.org/wiki/Open-BLDC) - Open-BLDC stands for Open Source Brush Less DC Motor Controller.
 - [HighPower-Mechaduino](https://github.com/pointhi/HighPower-Mechaduino) - Closed Loop Stepper Servo (50V@10A)
 - [motor-control-board](https://github.com/cvra/motor-control-board) - CVRA DC-Motor Driver, using STM32F3, supports CAN Bus and was designed using KiCAD
