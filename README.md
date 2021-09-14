@@ -52,6 +52,10 @@ If you have additions, please open an issue or pull-request.
 - [UC4H: UAVCAN for Hobbyists](http://www.olliw.eu/2017/uavcan-for-hobbyists/)  [(on GitHub)](https://github.com/olliw42/uavcan4hobbyists) - UAVCAN applied to a multirotor plattform.
 - [SAB](https://xpcc.io/api/group__sab.html) - Sensor Actuator Bus (SAB), also in [modm.io](https://modm.io/reference/module/modm-communication-sab/)
 - [Simple Robot](http://www.simplerobot.net/) - RPI4 & EtherCAT
+- [Lely CANopen](https://opensource.lely.com/canopen/) - Open Source CANopen Stack
+- [CANopenNode](https://github.com/CANopenNode/CANopenNode) - Another Open Source CANopen Stack
+- [CANopen driver framework for ROS](https://github.com/ros-industrial/ros_canopen) - CANOpen ROS bridge
+- [KaCanOpen](https://kitmedical.github.io/kacanopen/) - an easy-to-use CANopen stack for ROS
 
 ### Sensors
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
