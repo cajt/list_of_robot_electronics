@@ -17,7 +17,7 @@ If you have additions, please open an issue or pull request.
 - [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
 - [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
-- [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open HW) 
+- [ODrive](https://github.com/madcowswe/ODrive) & [ODriveROS2](https://github.com/Factor-Robotics/odrive_ros2_control) - High performance motor control (later versions /wo open HW) 
 - [M5/ODrive](https://shop.m5stack.com/products/odrive-13-2-module-drv8301dca) - Fork of Odrive in small form factor
 - [Near Zero](https://skysedge.com/robotics/nearzero/) - Open Hardware 1A continuous, 3A peak per channel powered by 7 - 36VDC
 
