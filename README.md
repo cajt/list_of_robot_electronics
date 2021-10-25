@@ -17,8 +17,10 @@ If you have additions, please open an issue or pull request.
 - [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
 - [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
-- [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open HW)
-- [Near Zero](https://skysedge.com/robotics/nearzero/) Open Hardware and Software
+- [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open HW) 
+- [M5/ODrive](https://shop.m5stack.com/products/odrive-13-2-module-drv8301dca) - Fork of Odrive in small form factor
+- [Near Zero](https://skysedge.com/robotics/nearzero/) - Open Hardware 1A continuous, 3A peak per channel powered by 7 - 36VDC
+
 
 ### Actuators
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
@@ -65,6 +67,7 @@ If you have additions, please open an issue or pull request.
 ## Projects with open and reuseable designs
 
 ### Open Source Project
+- [Reachy](https://www.pollen-robotics.com/)  humanoid robot, remote teleoperation using virtual reality.
 - [MORPH](https://hackaday.io/project/25730-morph-modular-open-robotics-platform-for-hackers) [on GitHub](https://github.com/roaldlemmens/morph) - Modular platform for open robotics development. Supports ROS and uses VESC.
 - [Evezor](https://hackaday.io/project/20416-evezor-robotic-arm) - Evezor is an open source SCARA class robotic manufacturing platform
 - [Octanis Rover](https://github.com/Octanis1/Octanis1-Electronics) - Octanis Rover Projects Electronics
