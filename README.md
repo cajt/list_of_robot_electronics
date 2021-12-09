@@ -47,6 +47,7 @@ If you have additions, please open an issue or pull request.
 - [Snickerdoodle](http://krtkl.com/) - Snickerdoodle is a Zynq based System-on-Module
 - [Logi-Bone](http://valentfx.com/logi-bone/) - FPGA & Beaglebone, also [some VHDL modules](https://github.com/fpga-logi/logi-hard) relevant to robotics available
 - [flink](https://github.com/flink-project) - Universal interface to FPGA's. Includes some IP-Cores for robotics.
+- [RAPCores](http://rapcores.org/rapcores/) - RAPcores is a motor and motion control toolkit for FPGAs and ASIC devices
 
 ### Bus Systems
 - [UAVCAN](http://uavcan.org/) - Protocol on top of CAN Bus, suited for robotics and aerospace control applications
