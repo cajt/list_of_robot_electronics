@@ -52,6 +52,7 @@ If you have additions, please open an issue or pull request.
 - [flink](https://github.com/flink-project) - Universal interface to FPGA's. Includes some IP-Cores for robotics.
 
 ### Bus Systems
+- [LUOS](https://github.com/Luos-io/Luos#readme) Library that can be used on any MCU, leading to free and fast multi-electronic-boards products development. 
 - [UAVCAN](http://uavcan.org/) - Protocol on top of CAN Bus, suited for robotics and aerospace control applications
 - [UC4H: UAVCAN for Hobbyists](http://www.olliw.eu/2017/uavcan-for-hobbyists/)  [(on GitHub)](https://github.com/olliw42/uavcan4hobbyists) - UAVCAN applied to a multirotor plattform.
 - [SAB](https://xpcc.io/api/group__sab.html) - Sensor Actuator Bus (SAB), also in [modm.io](https://modm.io/reference/module/modm-communication-sab/)
