@@ -19,6 +19,7 @@ If you have additions, please open an issue or pull request.
 - [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
 - [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open HW)
 - [Near Zero](https://skysedge.com/robotics/nearzero/) Open Hardware and Software
+- [xESC](https://github.com/ClemensElflein/xESC) BLDC COntroller (STM32 + TMC6200)
 
 ### Actuators
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
@@ -78,6 +79,7 @@ If you have additions, please open an issue or pull request.
 - [SCUTTLE](https://mxet.github.io/SCUTTLE/) - Mobile robot platform, uses RPI, OpenCV and lidar. 
 - [Hoverboard + ROS](https://github.com/alex-makarov/hoverboard-driver) - Provides ROS support for modified hoverboard, to provide a differential drive plattform. Uses this [modified firmware](https://github.com/bipropellant/bipropellant-hoverboard-firmware).
 - [Hello Robot](http://hello-robot.com/) - Mobile robot mit manipulation capabilities, also: [Github](https://github.com/hello-robot).
+- [https://github.com/ClemensElflein/OpenMower](OpenMower) - lawn mower robot 
 
 ### Robot Competitions
 - [CVRA](https://github.com/cvra) - CVRA's Github repositories (Eurobot Team)
