@@ -17,6 +17,7 @@ If you have additions, please open an issue or pull request.
 - [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
 - [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open HW)
+- [Betzdrive](https://betzdrive.github.io/) - BLDC Controler for ditributed multi-axis Systems (see also [Blue](https://rll.berkeley.edu/blue/))
 
 ### Actuators
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
