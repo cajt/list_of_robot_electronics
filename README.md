@@ -76,6 +76,8 @@ If you have additions, please open an issue or pull request.
 - [SCUTTLE](https://mxet.github.io/SCUTTLE/) - Mobile robot platform, uses RPI, OpenCV and lidar. 
 - [Hoverboard + ROS](https://github.com/alex-makarov/hoverboard-driver) - Provides ROS support for modified hoverboard, to provide a differential drive plattform. Uses this [modified firmware](https://github.com/bipropellant/bipropellant-hoverboard-firmware).
 - [Hello Robot](http://hello-robot.com/) - Mobile robot mit manipulation capabilities, also: [Github](https://github.com/hello-robot).
+- [nanosaur](https://github.com/rnanosaur) - 🦕 nanosaur is a little tracked robot ROS2 enabled, made for an NVIDIA Jetson Nano
+
 
 ### Robot Competitions
 - [CVRA](https://github.com/cvra) - CVRA's Github repositories (Eurobot Team)
