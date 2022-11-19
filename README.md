@@ -16,7 +16,11 @@ If you have additions, please open an issue or pull request.
 - [Brushless DC motor controller board](https://danstrother.com/2011/01/12/brushless-dc-motor-controller-board/) - Dan Strother's STM32f103 based BLDC controller Board
 - [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
-- [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open HW)
+- [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
+- [ODrive](https://github.com/madcowswe/ODrive) & [ODriveROS2](https://github.com/Factor-Robotics/odrive_ros2_control) - High performance motor control (later versions /wo open HW) 
+- [M5/ODrive](https://shop.m5stack.com/products/odrive-13-2-module-drv8301dca) - Fork of Odrive in small form factor
+- [Near Zero](https://skysedge.com/robotics/nearzero/) - Open Hardware 1A continuous, 3A peak per channel powered by 7 - 36VDC
+- [Simple FOC](https://simplefoc.com/) variety of [boards available](https://www.aliexpress.com/item/1005003311241556.html)
 - [rp2040-motor-controller](https://github.com/Twisted-Fields/rp2040-motor-controller) - Based on RP2040 chip
 - [Dagor](https://github.com/byDagor/Dagor-Brushless-Controller) - ESP32-based brushless controller that has an on-board magnetic encoder
 - [Betzdrive](https://betzdrive.github.io/) - BLDC Controler for ditributed multi-axis Systems (see also [Blue](https://rll.berkeley.edu/blue/))
@@ -48,6 +52,7 @@ If you have additions, please open an issue or pull request.
 - [flink](https://github.com/flink-project) - Universal interface to FPGA's. Includes some IP-Cores for robotics.
 
 ### Bus Systems
+- [LUOS](https://github.com/Luos-io/Luos#readme) Library that can be used on any MCU, leading to free and fast multi-electronic-boards products development. 
 - [UAVCAN](http://uavcan.org/) - Protocol on top of CAN Bus, suited for robotics and aerospace control applications
 - [UC4H: UAVCAN for Hobbyists](http://www.olliw.eu/2017/uavcan-for-hobbyists/)  [(on GitHub)](https://github.com/olliw42/uavcan4hobbyists) - UAVCAN applied to a multirotor plattform.
 - [SAB](https://xpcc.io/api/group__sab.html) - Sensor Actuator Bus (SAB), also in [modm.io](https://modm.io/reference/module/modm-communication-sab/)
@@ -64,6 +69,7 @@ If you have additions, please open an issue or pull request.
 ## Projects with open and reuseable designs
 
 ### Open Source Project
+- [Reachy](https://www.pollen-robotics.com/)  humanoid robot, remote teleoperation using virtual reality.
 - [MORPH](https://hackaday.io/project/25730-morph-modular-open-robotics-platform-for-hackers) [on GitHub](https://github.com/roaldlemmens/morph) - Modular platform for open robotics development. Supports ROS and uses VESC.
 - [Evezor](https://hackaday.io/project/20416-evezor-robotic-arm) - Evezor is an open source SCARA class robotic manufacturing platform
 - [Octanis Rover](https://github.com/Octanis1/Octanis1-Electronics) - Octanis Rover Projects Electronics
