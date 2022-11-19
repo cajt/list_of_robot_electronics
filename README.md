@@ -16,10 +16,10 @@ If you have additions, please open an issue or pull request.
 - [Brushless DC motor controller board](https://danstrother.com/2011/01/12/brushless-dc-motor-controller-board/) - Dan Strother's STM32f103 based BLDC controller Board
 - [Closed Loop Motor Controller](https://github.com/ottoragam/Tarocco) - Step/Dir input for CNC use. Based on PSoC4.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
-- [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
 - [ODrive](https://github.com/madcowswe/ODrive) - High performance motor control (later versions /wo open HW)
-- [Near Zero](https://skysedge.com/robotics/nearzero/) Open Hardware and Software
-- [xESC](https://github.com/ClemensElflein/xESC) BLDC COntroller (STM32 + TMC6200)
+- [rp2040-motor-controller]([https://github.com/madcowswe/ODrive](https://github.com/Twisted-Fields/rp2040-motor-controller)) - still in devellopement, based on RP2040 chip
+- [Dagor](https://github.com/byDagor/Dagor-Brushless-Controller) - ESP32-based brushless controller that has an on-board magnetic encoder
+- [Betzdrive](https://betzdrive.github.io/) - BLDC Controler for ditributed multi-axis Systems (see also [Blue](https://rll.berkeley.edu/blue/))
 
 ### Actuators
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
@@ -27,9 +27,6 @@ If you have additions, please open an issue or pull request.
 - [3D Printed Robot Actuator](https://hackaday.io/project/157812-3d-printed-robot-actuator) - Motorcontroller + BLDC + cycloidal gearbox and position feedback
 - [DirectServo](https://github.com/DizzyRobot/DirectServo) - Robotic joint controller with BLDC driver and magnetic encoder.
 - [Moteus](https://github.com/mjbots/moteus) - Joint Controller and quadruped robot design
-
-### RC-Servo
-- [16 Channel Servo Controler](https://www.tindie.com/products/deshipu/16-channel-servo-shield-for-d1-mini-version-10/) - I²C RC-servo controller with 16 channels
 
 ### Computer Vision
 - [OpenMV](https://github.com/openmv/openmv) - OpenMV, an embedded CV Module (CMOS Sensor with STM32)
@@ -42,13 +39,13 @@ If you have additions, please open an issue or pull request.
 - [Battman BMS](https://github.com/raphaelchang/battman-hardware) - Li-Ion BMS (LTC6803)
 - [ENNOID - BMS](https://github.com/EnnoidMe/ENNOID-BMS) [FW](https://github.com/EnnoidMe/ENNOID-BMS-Firmware) [GUI](https://github.com/EnnoidMe/ENNOID-BMS-Tool) - Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack
 - [foxBMS (Github)](https://github.com/foxBMS/foxbms) - Modular BMS (many chemistries, many cells)  [foxbms.org](https://foxbms.org/)
+- [Green BMS](https://github.com/Green-bms/SmartBMS) - Modular BMS, for many chemistries 
 
 ### FPGA based
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
 - [Snickerdoodle](http://krtkl.com/) - Snickerdoodle is a Zynq based System-on-Module
 - [Logi-Bone](http://valentfx.com/logi-bone/) - FPGA & Beaglebone, also [some VHDL modules](https://github.com/fpga-logi/logi-hard) relevant to robotics available
 - [flink](https://github.com/flink-project) - Universal interface to FPGA's. Includes some IP-Cores for robotics.
-- [RAPCores](http://rapcores.org/rapcores/) - RAPcores is a motor and motion control toolkit for FPGAs and ASIC devices
 
 ### Bus Systems
 - [UAVCAN](http://uavcan.org/) - Protocol on top of CAN Bus, suited for robotics and aerospace control applications
@@ -79,8 +76,8 @@ If you have additions, please open an issue or pull request.
 - [SCUTTLE](https://mxet.github.io/SCUTTLE/) - Mobile robot platform, uses RPI, OpenCV and lidar. 
 - [Hoverboard + ROS](https://github.com/alex-makarov/hoverboard-driver) - Provides ROS support for modified hoverboard, to provide a differential drive plattform. Uses this [modified firmware](https://github.com/bipropellant/bipropellant-hoverboard-firmware).
 - [Hello Robot](http://hello-robot.com/) - Mobile robot mit manipulation capabilities, also: [Github](https://github.com/hello-robot).
-- [OpenMower](https://github.com/ClemensElflein/OpenMower) - lawn mower robot 
 - [nanosaur](https://github.com/rnanosaur) - 🦕 nanosaur is a little tracked robot ROS2 enabled, made for an NVIDIA Jetson Nano
+
 
 ### Robot Competitions
 - [CVRA](https://github.com/cvra) - CVRA's Github repositories (Eurobot Team)
