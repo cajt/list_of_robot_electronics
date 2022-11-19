@@ -21,7 +21,9 @@ If you have additions, please open an issue or pull request.
 - [M5/ODrive](https://shop.m5stack.com/products/odrive-13-2-module-drv8301dca) - Fork of Odrive in small form factor
 - [Near Zero](https://skysedge.com/robotics/nearzero/) - Open Hardware 1A continuous, 3A peak per channel powered by 7 - 36VDC
 - [Simple FOC](https://simplefoc.com/) variety of [boards available](https://www.aliexpress.com/item/1005003311241556.html)
-
+- [rp2040-motor-controller](https://github.com/Twisted-Fields/rp2040-motor-controller) - Based on RP2040 chip
+- [Dagor](https://github.com/byDagor/Dagor-Brushless-Controller) - ESP32-based brushless controller that has an on-board magnetic encoder
+- [Betzdrive](https://betzdrive.github.io/) - BLDC Controler for ditributed multi-axis Systems (see also [Blue](https://rll.berkeley.edu/blue/))
 
 ### Actuators
 - [Mechaduino](http://tropical-labs.com/index.php/mechaduino) - Closed Loop Stepper Servo
@@ -29,9 +31,6 @@ If you have additions, please open an issue or pull request.
 - [3D Printed Robot Actuator](https://hackaday.io/project/157812-3d-printed-robot-actuator) - Motorcontroller + BLDC + cycloidal gearbox and position feedback
 - [DirectServo](https://github.com/DizzyRobot/DirectServo) - Robotic joint controller with BLDC driver and magnetic encoder.
 - [Moteus](https://github.com/mjbots/moteus) - Joint Controller and quadruped robot design
-
-### RC-Servo
-- [16 Channel Servo Controler](https://www.tindie.com/products/deshipu/16-channel-servo-shield-for-d1-mini-version-10/) - I²C RC-servo controller with 16 channels
 
 ### Computer Vision
 - [OpenMV](https://github.com/openmv/openmv) - OpenMV, an embedded CV Module (CMOS Sensor with STM32)
@@ -44,6 +43,7 @@ If you have additions, please open an issue or pull request.
 - [Battman BMS](https://github.com/raphaelchang/battman-hardware) - Li-Ion BMS (LTC6803)
 - [ENNOID - BMS](https://github.com/EnnoidMe/ENNOID-BMS) [FW](https://github.com/EnnoidMe/ENNOID-BMS-Firmware) [GUI](https://github.com/EnnoidMe/ENNOID-BMS-Tool) - Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack
 - [foxBMS (Github)](https://github.com/foxBMS/foxbms) - Modular BMS (many chemistries, many cells)  [foxbms.org](https://foxbms.org/)
+- [Green BMS](https://github.com/Green-bms/SmartBMS) - Modular BMS, for many chemistries 
 
 ### FPGA based
 - [LOA](https://github.com/loa-org) - Loa is a framework designed to build specialized IO subsystems.
@@ -81,6 +81,9 @@ If you have additions, please open an issue or pull request.
 - [Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative) - 8/12-Dof Walker, fast multi-axis force control, bldc-drivers
 - [SCUTTLE](https://mxet.github.io/SCUTTLE/) - Mobile robot platform, uses RPI, OpenCV and lidar. 
 - [Hoverboard + ROS](https://github.com/alex-makarov/hoverboard-driver) - Provides ROS support for modified hoverboard, to provide a differential drive plattform. Uses this [modified firmware](https://github.com/bipropellant/bipropellant-hoverboard-firmware).
+- [Hello Robot](http://hello-robot.com/) - Mobile robot mit manipulation capabilities, also: [Github](https://github.com/hello-robot).
+- [nanosaur](https://github.com/rnanosaur) - 🦕 nanosaur is a little tracked robot ROS2 enabled, made for an NVIDIA Jetson Nano
+
 
 ### Robot Competitions
 - [CVRA](https://github.com/cvra) - CVRA's Github repositories (Eurobot Team)
