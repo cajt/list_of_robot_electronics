@@ -19,7 +19,7 @@ If you have additions, please open an issue or pull request.
 - [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
 - [ODrive](https://github.com/madcowswe/ODrive) & [ODriveROS2](https://github.com/Factor-Robotics/odrive_ros2_control) - High performance motor control (later versions /wo open HW) 
 - [M5/ODrive](https://shop.m5stack.com/products/odrive-13-2-module-drv8301dca) - Fork of Odrive in small form factor
-- [Near Zero](https://skysedge.com/robotics/nearzero/) - Open Hardware 1A continuous, 3A peak per channel powered by 7 - 36VDC
+- [Near Zero](https://skysedge.com/robotics/nearzero/index.html) - Open Hardware, Arduino-based, dual-motor
 - [Simple FOC](https://simplefoc.com/) variety of [boards available](https://www.aliexpress.com/item/1005003311241556.html)
 - [rp2040-motor-controller](https://github.com/Twisted-Fields/rp2040-motor-controller) - Based on RP2040 chip
 - [Dagor](https://github.com/byDagor/Dagor-Brushless-Controller) - ESP32-based brushless controller that has an on-board magnetic encoder
