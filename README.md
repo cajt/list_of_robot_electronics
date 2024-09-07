@@ -30,6 +30,7 @@ If you have additions, please open an issue or pull request.
 - [3D Printed Robot Actuator](https://hackaday.io/project/157812-3d-printed-robot-actuator) - Motorcontroller + BLDC + cycloidal gearbox and position feedback
 - [DirectServo](https://github.com/DizzyRobot/DirectServo) - Robotic joint controller with BLDC driver and magnetic encoder.
 - [Moteus](https://github.com/mjbots/moteus) - Joint Controller and quadruped robot design
+- [ServoProject](https://github.com/adamb314/ServoProject) - A RC-Servo retrofit (new electronics, sensors and firmware)
 
 ### Computer Vision
 - [OpenMV](https://github.com/openmv/openmv) - OpenMV, an embedded CV Module (CMOS Sensor with STM32)
