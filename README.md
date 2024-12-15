@@ -65,6 +65,7 @@ If you have additions, please open an issue or pull request.
 ### Sensors
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
 - [OSLRF-01](https://www.documents.lightware.co.za/OSLRF-01%20-%20Laser%20Rangefinder%20Manual%20-%20Rev%200.pdf) - An open source laser range sensor using time-of-flight
+- [Xaxxon OpenLIDAR](http://www.xaxxon.com/xaxxon/openlidar) - DIY Scanning Lidar 
 
 ## Projects with open and reuseable designs
 
