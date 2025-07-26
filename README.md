@@ -18,7 +18,6 @@ If you have additions, please open an issue or pull request.
 - [DC Servomotor Controller](http://elm-chan.org/works/smc/report_e.html) - DC-Motor driver build around an AVR.
 - [STM_MotorController](https://github.com/open-rdc/STM_MotorController) - Of Robot Design and Control Lab @ CIT
 - [ODrive](https://github.com/madcowswe/ODrive) & [ODriveROS2](https://github.com/Factor-Robotics/odrive_ros2_control) - High performance motor control (later versions /wo open HW) 
-- [Near Zero](https://skysedge.com/robotics/nearzero/index.html) - Open Hardware, Arduino-based, dual-motor
 - [Simple FOC](https://simplefoc.com/) variety of [boards available](https://www.aliexpress.com/item/1005003311241556.html)
 - [rp2040-motor-controller](https://github.com/Twisted-Fields/rp2040-motor-controller) - Based on RP2040 chip
 - [Dagor](https://github.com/byDagor/Dagor-Brushless-Controller) - ESP32-based brushless controller that has an on-board magnetic encoder
@@ -52,10 +51,9 @@ If you have additions, please open an issue or pull request.
 - [flink](https://github.com/flink-project) - Universal interface to FPGA's. Includes some IP-Cores for robotics.
 
 ### Bus Systems
-- [SAB](https://xpcc.io/api/group__sab.html) - Sensor Actuator Bus (SAB), also in [modm.io](https://modm.io/reference/module/modm-communication-sab/)
+- [SAB](https://modm.io/reference/module/modm-communication-sab/) - Sensor Actuator Bus (SAB), also in [modm.io](https://modm.io/)
 - [OpenCyphal](https://opencyphal.org/) - (formerly UAVCAN) Protocol on top of CAN Bus, suited for robotics and aerospace control applications
 - [UC4H: UAVCAN for Hobbyists](http://www.olliw.eu/2017/uavcan-for-hobbyists/)  [(on GitHub)](https://github.com/olliw42/uavcan4hobbyists) - UAVCAN applied to a multirotor plattform.
-- [LUOS](https://github.com/Luos-io/Luos#readme) Library that can be used on any MCU, leading to free and fast multi-electronic-boards products development. 
 - [Simple Robot](http://www.simplerobot.net/) - RPI4 & EtherCAT
 - [Lely CANopen](https://opensource.lely.com/canopen/) - Open Source CANopen Stack
 - [CANopenNode](https://github.com/CANopenNode/CANopenNode) - Another Open Source CANopen Stack
@@ -78,9 +76,7 @@ If you have additions, please open an issue or pull request.
 - [Linorobot](https://linorobot.org/) - A suite of Open Source ROS compatible robots [GIT](https://github.com/linorobot/linorobot)
 - [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot) - Demo robot for real-time control using Rpi, RT Linux, and ROS.
 - [StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) - 8-DoF quadruped robot
-- [Pulurobots](https://www.pulurobotics.fi/page/github) - Open Source mobile service robot
 - [Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative) - 8/12-Dof Walker, fast multi-axis force control, bldc-drivers
-- [SCUTTLE](https://mxet.github.io/SCUTTLE/) - Mobile robot platform, uses RPI, OpenCV and lidar. 
 - [Hoverboard + ROS](https://github.com/alex-makarov/hoverboard-driver) - Provides ROS support for modified hoverboard, to provide a differential drive plattform. Uses this [modified firmware](https://github.com/bipropellant/bipropellant-hoverboard-firmware).
 - [Hello Robot](http://hello-robot.com/) - Mobile robot mit manipulation capabilities, also: [Github](https://github.com/hello-robot).
 - [nanosaur](https://github.com/rnanosaur) - 🦕 nanosaur is a little tracked robot ROS2 enabled, made for an NVIDIA Jetson Nano
